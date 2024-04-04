@@ -1,0 +1,5 @@
+Text: '()(())', Expected Output: True, Result: True
+Text: '()()', Expected Output: True, Result: True
+Text: ')(()', Expected Output: False, Result: False
+Text: '((', Expected Output: False, Result: False
+Text: 'text', Expected Output: True, Result: True

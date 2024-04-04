@@ -1,0 +1,8 @@
+Input: aaba, Expected Output: True, Result: True
+Input: racecar, Expected Output: True, Result: True
+Input: hello, Expected Output: False, Result: False
+Input: level, Expected Output: True, Result: True
+Input: radar, Expected Output: True, Result: True
+Input: abccdba, Expected Output: True, Result: True
+Input: , Expected Output: True, Result: True
+Input: a, Expected Output: True, Result: True

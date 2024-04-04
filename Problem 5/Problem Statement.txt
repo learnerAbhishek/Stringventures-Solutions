@@ -1,0 +1,7 @@
+Section 5: Basic Coding
+● Write a python script to check if the provided string is a palindrome. Catch is: system can remove
+1 of the alphabet and check again, if leftover string is a palindrome, Return True if its Palindrome.
+i.e., aaba (Return True as, if we remove 1st ‘a’ alphabet, leftover string becomes aba and its
+palindrome.
+● Implement a function that checks whether a given string with parentheses is balanced or not (i.e.,
+all opened parentheses have a corresponding closing one).

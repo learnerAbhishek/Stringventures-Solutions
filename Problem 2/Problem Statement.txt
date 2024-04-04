@@ -1,0 +1,4 @@
+Section 2: Finetune LLM Model (choose any)
+● Refer to above data classification task
+● Write code to fine tune LLM model for mentioned task
+● Use fine tune model to get output for sample data

@@ -1,0 +1,4 @@
+Section 4: Keyword Extraction
+● Provide a short document or text sample (List some random sample text in csv/excel file)
+● Write a Python script to extract and list the most important keywords from the provided text data.
+Explain the method you used for keyword extraction.

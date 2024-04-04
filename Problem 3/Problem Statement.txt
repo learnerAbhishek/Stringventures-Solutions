@@ -1,0 +1,3 @@
+Section 3: Text Generation
+● Use a pre-trained transformer model (e.g., Huggingface) to generate coherent and contextually
+relevant text. Provide code to generate a short paragraph of text based on a given input prompt.

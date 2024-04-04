@@ -1,0 +1,7 @@
+Section 1: Text Classification
+● Dataset: IMDB Movie Reviews (Take any sample data reference)
+● Task: Multi class sentiment classification (positive/negative/neutral)
+● Train a sentiment classification model using a pre-trained transformer model (e.g., BERT) on the
+provided IMDB Movie Reviews dataset.
+● Evaluate the model's performance on a test dataset and provide accuracy, precision, recall, and
+F1-score. Explain the evaluation metrics.
